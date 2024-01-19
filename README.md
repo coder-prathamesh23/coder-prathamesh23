@@ -1,4 +1,4 @@
--👋 "Hello World! I'm Prathamesh Naik !!" 👨‍💻
+👋 "Hello World! I'm Prathamesh Naik !!" 👨‍💻
   Passionate about the intersection of technology and creativity.
   I'm a Tech Geek with a flair for building Android Applications to solve some real world problems and make life easier. 
   My journey in the world of coding started when I discovered the thrill of turning lines of code into impactful applications.
