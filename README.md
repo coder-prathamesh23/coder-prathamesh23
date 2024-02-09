@@ -14,9 +14,9 @@
 
 -💻 Tech Alchemist:
 
-  Languages: Kotlin, C++, Java, DBMS
-  Frameworks: KMM, Ktor
-  Tools: Intellij IDEA, Android Studio
+  *Languages: Kotlin, C++, Java, DBMS
+  *Frameworks: KMM, Ktor,
+  *Tools: Intellij IDEA, Android Studio
 
 
 -⚙️ DSA Enthusiast:
