@@ -31,7 +31,7 @@
 
 -🌟 Let's Collaborate:
 
-  LinkedIn - www.linkedin.com/in/prathamesh-naik-002946237
+  LinkedIn - https://www.linkedin.com/in/naik-prem23
 
 
 -💡 Fun Fact:
@@ -53,7 +53,4 @@
 
   
 
-<!---
-coder-prathamesh23/coder-prathamesh23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
