@@ -1,56 +1,18 @@
-👋 "Hello World! I'm Prathamesh Naik !!" 👨‍💻
-  Passionate about the intersection of technology and creativity.
-  I'm a Tech Geek with a flair for building Android Applications to solve some real world problems and make life easier. 
-  My journey in the world of coding started when I discovered the thrill of turning lines of code into impactful applications.
+# 💫 About Me:
+🚀 About Me<br><br>💻 I’m currently working on advancing my DevOps skills<br>🔧 Building and automating CI/CD pipelines with tools like GitHub Actions, Jenkins, and GitLab CI  <br>☁️ Exploring Cloud Infrastructure as Code using Terraform and Ansible  <br>🐳 Containerizing apps with Docker and orchestrating with Kubernetes  <br>📈 Actively learning and implementing monitoring & alerting with Prometheus + Grafana  <br>🧪 Love experimenting with new tools and tech in DevOps ecosystems  <br><br>🛠️ Technologies & Tools<br><br>- 🐧 Linux & Shell Scripting<br>- 🛠️ CI/CD: GitHub Actions | Jenkins | GitLab CI<br>- ☁️ AWS | GCP Basics<br>- 🧱 Docker | Kubernetes<br>- 🔧 Terraform | Ansible<br>- 📊 Prometheus | Grafana | ELK Stack<br>- 📝 Git | GitHub | GitOps<br><br>📈 Current Focus<br><br>🔭 Learning advanced **Kubernetes administration & architecture**  <br>🧱 Mastering **Terraform** for infrastructure provisioning  <br>🎯 Building reusable **CI/CD pipeline templates**  <br>🔍 Automating infrastructure **monitoring and logging**<br><br>🔨 Projects<br><br>terraform-aws-ec2-nginx: Provision EC2 with Terraform and configure Nginx using Ansible<br>github-actions-node-ci: Node.js CI/CD pipeline using GitHub Actions<br>k8s-microservice-demo: Dockerized microservices deployed on Kubernetes with Ingress and Helm<br><br>🧠 Let's Collaborate<br><br>📬 Open to contributing to DevOps projects or collaborating on cloud-native tooling  <br>🧑‍💻 Looking forward to real-world challenges to apply and sharpen my skills  <br>
 
 
--🚀 What I do:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_chromatic_me_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naik-prem23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathameshnaik23@yahoo.com) 
 
-  Turning coffee into code and dreams into applications.
-  Transforming ideas into scalable software solutions.
-  Crafting elegant and efficient code that stands the test of time.
-  Exploring the latest technologies and staying ahead in the ever-evolving tech landscape.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=coder-prathamesh23&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=coder-prathamesh23&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-prathamesh23&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=coder-prathamesh23&icon=8&color=1)](https://visitcount.itsvg.in)
 
--💻 Tech Alchemist:
-
-  *Languages: Kotlin, C++, Java, DBMS
-  *Frameworks: KMM, Ktor,
-  *Tools: Intellij IDEA, Android Studio
-
-
--⚙️ DSA Enthusiast:
-
-  Passionate about optimizing code efficiency through the elegance of Data Structures and Algorithms.  
-
-
--🌱 Always learning and growing:
-
-  Currently Working With Kotlin and learning to build Dynamic Android Applications.
-  
-
--🌟 Let's Collaborate:
-
-  LinkedIn - https://www.linkedin.com/in/naik-prem23
-
-
--💡 Fun Fact:
-  
-  I once coded an entire web app during a roadtrip—talk about coding on the wheels! 🚍✨
-
-
--🎸 Beyond the Screen:
-
-  Making Every Basket Count, Playing Basketball 🏀!!
-
-
--⚡ Current Mantra:
-  
-  "Turning dreams into code and challenges into triumphs."
-
-
--📚 Check out my latest projects below! 👇
-
-  
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
